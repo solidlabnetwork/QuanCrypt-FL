@@ -2,6 +2,7 @@
 
 ## Overview
 QuanCrypt-FL is an innovative approach designed to enhance security in federated learning by combining quantization and pruning strategies. This integration strengthens the defense against adversarial attacks while also lowering computational overhead during training. Additionally, the approach includes a mean-based clipping mechanism to address potential quantization overflows and errors. The combination of these techniques results in a communication-efficient FL framework that prioritizes privacy without significantly affecting model accuracy, thereby boosting computational performance and resilience to attacks.
+![CHEESE!](framework.jpg)
 
 ## Features
 - Federated Learning (FL) setup with customizable client count and local training parameters.
